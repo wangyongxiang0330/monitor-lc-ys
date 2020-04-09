@@ -20,17 +20,13 @@ npm run build
 * config - webpack config files
 * dist - build
 * src -your app
-    * api
-    * assets
-    * common
-    * components - your vue components
-    * styles
-    * views - your pages
-    * vuex
+    * Monitor.vue
+    * YsMonitor.vue
     * App.vue
     * main.js - main file
     * routes.js
 * static - static assets
+* 以下2个地方填写大华乐橙和海康萤石设备信息
 * ![](README_files/1.jpg)
 * ![](README_files/2.jpg)
 
